@@ -1,6 +1,6 @@
 # react-nodebird-front
 
-React NodeBird SNS Clone
+React NodeBird SNS Clone by inflearn.com/course
 
 Skills:
 - Next-js
@@ -11,3 +11,4 @@ Skills:
 
 Reference:
 https://github.com/ZeroCho/react-nodebird
+
