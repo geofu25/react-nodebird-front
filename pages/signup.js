@@ -6,7 +6,7 @@ const Signup = () => {
  return (
     <>
      <Head>
-        <title>내 프로필 | NodeBird</title>
+        <title>회원가입 | NodeBird</title>
      </Head>
      <AppLayout><div>회원가입 페이지</div></AppLayout>
     </>
